@@ -1,1 +1,0 @@
-- The term was Cyber first used in 1948 by Norbert Wiener, an American mathematician and scientist.
