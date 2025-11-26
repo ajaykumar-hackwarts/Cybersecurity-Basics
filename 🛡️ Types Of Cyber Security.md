@@ -75,4 +75,32 @@ Comment:
 -->
 
 
+## 3. 🧩 Application Security(AppSec) : 
+- Application is a software program designed to perform certian task for the user. Web, mobile, desktop apps.
+- Application Security is the practice of protecting applications by identifying, testing, and fixing security weaknesses.
+
+  <table>
+  <tr>
+    <td><strong>Threats</strong></td>
+    <td>SQLI, CSRF, XSS and many application vulnerabilities</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Techniques</strong></td>
+    <td>Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Web Application Firewalls (WAF), OWASP Top 10 guidelines, Penetration Testing</td>
+  </tr>
+  <tr>
+    <td><strong>Goal</strong></td>
+    <td>Ensuring the security of software from unauthorized access, data breaches, and misuse of applications.</td>
+  </tr>
+  <tr>
+    <td><strong>Analogy</strong></td>
+    <td>Secure Door lock</td>
+  </tr>
+</table>
+
+## 4. 📱  Mobile Security :
+
+- Mobile Security protects smartphones, tablets and mobile apps from treats like malware, data theft and unauthorized access.
+ 
+<table> <tr> <td><strong>Threats</strong></td> <td>Malicious apps, Data leakage, Rooting, Unauthorized permissions</td> </tr> <tr> <td><strong>Tools & Techniques</strong></td> <td>App Sandboxing, MDM (Mobile Device Management), Encryption, Authentication</td> </tr> <tr> <td><strong>Goal</strong></td> <td>Protect mobile devices and data from mobile-specific attacks</td> </tr> <tr> <td><strong>Analogy</strong></td> <td>Personal Bodygaurd</td> </tr> </table>
 
