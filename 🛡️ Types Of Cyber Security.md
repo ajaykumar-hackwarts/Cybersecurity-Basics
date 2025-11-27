@@ -150,7 +150,7 @@ Comment:
 - This security practice is for preventing data loss or minimizing downtime incase of any natural disaster or emergency like system failures. 
 <table> <tr> <td><strong>Threats</strong></td> <td>System failures, Ransomware attacks, Natural disasters</td> </tr> <tr> <td><strong>Tools & Techniques</strong></td> <td>Backup Systems, Incident Response Plan, Recovery Drills</td> </tr> <tr> <td><strong>Goal</strong></td> <td>Restore systems quickly and maintain business operations</td> </tr> <tr> <td><strong>Analogy</strong></td> <td>Emergency Exit Plan</td> </tr> </table>
 
-## 10. Internet of Things (IoT) Security : 
+## 🤖 10. Internet of Things (IoT) Security : 
 
 - IoT (Internet of Things) refers to physical devices connected to the internet that can collect, share, and exchange data. example : smart watches, smart home devices like camera.
 - IoT Security protects smart and connected devices such as sensors, cameras, and appliances from vulnerabilities and unauthorized access.
